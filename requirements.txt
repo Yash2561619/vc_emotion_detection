@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿aiohappyeyeballs==2.7.1
 aiohttp==3.14.1
 aiohttp-retry==2.9.1
@@ -107,3 +108,22 @@ voluptuous==0.16.0
 wcwidth==0.8.2
 yarl==1.24.2
 zc.lockfile==4.0
+=======
+﻿click==8.4.2
+colorama==0.4.6
+defusedxml==0.7.1
+joblib==1.5.3
+narwhals==2.23.0
+nltk==3.10.0
+numpy==2.5.1
+pandas==3.0.3
+python-dateutil==2.9.0.post0
+PyYAML==6.0.3
+regex==2026.6.28
+scikit-learn==1.9.0
+scipy==1.18.0
+six==1.17.0
+threadpoolctl==3.6.0
+tqdm==4.68.4
+tzdata==2026.3
+>>>>>>> 6f2d46e1b64f6ba7093e924c49e9492e2ab859f8
