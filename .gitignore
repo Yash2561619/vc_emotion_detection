@@ -1,7 +1,7 @@
-models
-myenv
-data
-reports
+models/
+myenv/
+/data/     <-- Add a leading slash and trailing slash
+reports/
 
 
 
